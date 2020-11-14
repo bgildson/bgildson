@@ -4,7 +4,7 @@
 
 I'm a nice guy who loves technology, innovation and learning.
 
-<br/>👨🏽‍💻 I'm currently working at Singolar
+<br/>👨🏽‍💻 I'm currently working at Dafiti
 <br/>🌱 I'm currently learning Python, GoLang, JavaScript/TypeScript and Dart
 <br/>📫 How to reach me: [gildson13@hotmail.com](mailto:gildson13@hotmail.com)
 
